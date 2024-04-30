@@ -1,0 +1,3 @@
+mkdir blockchain
+cd blockchain
+npm init -y
